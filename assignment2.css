@@ -1,0 +1,64 @@
+
+#Bttn {
+    text-align: center;
+    
+}
+#gally {
+    text-align: center;
+    /* background-color: #71b4c5; /* Green */
+    /* border: none; */
+    color: #ffffff;
+    padding: 15px 32px;
+    /* text-decoration: none; */
+    /* display: inline-block; */
+    /* font-size: 25px; */ 
+}
+#article {
+    color: #ffffff;
+    padding: 15px 32px;
+    display: inline-block
+}
+.jsfunction
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: bold;
+    margin-left: 350px;
+    display: inline-block;
+}
+h3{
+    text-align: center;
+    color: rgb(26, 25, 27);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
+    font-size: 30px;
+    /* display: inline-block; */
+}
+/* #container {
+    margin: auto;
+    color: rgb(72, 20, 121);
+    font-family: Georgia, 'Times New Roman', Times, serif; */
+#quoteDisplay {
+        margin-top: 100px;
+        margin-left: 300px;
+        margin-right: 100px;
+    
+        width: 60%;
+        border: 3px dotted #000000;
+        padding: 40px; 
+        font-family: sans-serif;
+        text-align: center;
+        font-size: 30px;
+
+  }
+body{
+    background-color: rgb(240, 240, 228);
+}
+
+  

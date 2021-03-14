@@ -1,0 +1,19 @@
+h1{
+    margin-left: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: black;
+
+}
+
+p{
+margin-left: 400px;
+margin-right: 200px;
+line-height: 2rem;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+color: darkcyan;
+}
+body{
+    background-color: rgb(251, 251, 238);
+}
